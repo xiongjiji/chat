@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <meat charset='utf-8'>
+	  <title>mychat</title>
+	  <link href="/assets/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+	  <link href="/assets/css/index.css" rel="stylesheet">
+	  <script src="/assets/bower_components/jquery/dist/jquery.min.js"></script>
+	  <script src="/socket.io/socket.io.js"></script>
+	  <script src="/assets/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	  <script src="/assets/bower_components/angular/angular.min.js"></script>
+	  <script src="/assets/js/client.js"></script>
+	</head>
+	<body>
+	</body>
+</html>
